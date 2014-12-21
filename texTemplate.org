@@ -18,7 +18,7 @@
   bst [label = "template.bst", color = green]
   sty [label = "template.sty", color = green]
   fig [label = "Figs", color=red]
-  build [label  = "build", color = red]
+  build [label  = "build", color = blue]
   gen [label = "compile.sh", color = blue]
   //2. set path 
   temp -> {info,main, bib, bst, sty} [label = input]
@@ -28,6 +28,6 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate 
-#+RESULTS[419621377bc4b26a2bffa515622ff4b7ad314369]: dot:texTemplate
+#+RESULTS[be7a0798413d7327543c39730481a75e2b69ea65]: dot:texTemplate
 [[file:./texTemplate.svg]]
 
