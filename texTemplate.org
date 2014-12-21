@@ -2,26 +2,26 @@
 #+HEADER: :cache yes :tangle yes :exports none
 #+HEADER: :results output graphics
 #+BEGIN_SRC dot :file ./texTemplate.svg 
-digraph { 
-fontname="Times"; 
-fontsize = 12; 
-splines = false; 
-ranksep = 0.2; 
-nodesep = 0.5; 
-node [shape = box] 
-//1. set node 
-temp [label = "template.tex", color = green]
-info [label = "info.tex", color = gold]
-main [label = "main.tex", color = red]
-bib [label = "cite.bib", color = red]
-bst [label = "template.bst", color = green]
-sty [label = "template.sty"]
-fig [label = "Figs", color=red, fill = true]
-//2. set path 
-temp -> {info,main, bib, bst, sty} [label = input]
-//3. set rank 
+  digraph { 
+  fontname="Times"; 
+  fontsize = 12; 
+  splines = false; 
+  ranksep = 0.2; 
+  nodesep = 0.5; 
+  node [shape = box] 
+  //1. set node 
+  temp [label = "template.tex", color = green]
+  info [label = "info.tex", color = gold]
+  main [label = "main.tex", color = red]
+  bib [label = "cite.bib", color = red]
+  bst [label = "template.bst", color = green]
+  sty [label = "template.sty"]
+  fig [label = "Figs", color=red, fill = true]
+  //2. set path 
+  temp -> {info,main, bib, bst, sty} [label = input]
+  //3. set rank 
 
-}
+  }
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate 
