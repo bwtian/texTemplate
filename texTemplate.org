@@ -16,7 +16,8 @@
   bib [label = "cite.bib", color = red]
   bst [label = "template.bst", color = green]
   sty [label = "template.sty"]
-  fig [label = "Figs", color=red, fill = lightblue]
+  fig [label = "Figs", color=red]
+  build [lable]
   //2. set path 
   temp -> {info,main, bib, bst, sty} [label = input]
   //3. set rank 
@@ -25,6 +26,6 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate 
-#+RESULTS[b658282dd3df8e48fa4b5da8a364383e82224098]: dot:texTemplate
+#+RESULTS[c3458898a2687d7ef7b78a1dcc8a7a87eca2d957]: dot:texTemplate
 [[file:./texTemplate.svg]]
 
