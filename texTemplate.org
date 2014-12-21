@@ -20,11 +20,11 @@ bst [label = "template.bst"]
 temp -> {info,main,bst}
 
 //3. set rank 
-{rank = same; A, B} 
+
 }
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate 
-#+RESULTS[ec7b47d9e15e3227095f66a7d74cf757e878cbf4]: dot:texTemplate
+#+RESULTS[5e23c5f6934839303dd84635e6af53b0fb7fdc57]: dot:texTemplate
 [[file:./texTemplate.svg]]
 
