@@ -3,6 +3,7 @@
 #+HEADER: :results output graphics
 #+BEGIN_SRC dot :file ./texTemplate.svg 
   digraph { 
+  LR
   fontname="Times"; 
   fontsize = 12; 
   splines = false; 
@@ -27,6 +28,6 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate 
-#+RESULTS[fe07119e4bb6de4e1cf950bb12d073b9c64e7cfa]: dot:texTemplate
+#+RESULTS[0ba9f810e64718709cdb933765dee2084a899984]: dot:texTemplate
 [[file:./texTemplate.svg]]
 
