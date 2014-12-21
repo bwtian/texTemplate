@@ -17,7 +17,7 @@ bib [label = "cite.bib"]
 bst [label = "template.bst"]
 
 //2. set path 
-
+temp -> {}
 
 //3. set rank 
 {rank = same; A, B} 
