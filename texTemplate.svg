@@ -27,7 +27,7 @@
 </g>
 <!-- main -->
 <g id="node3" class="node"><title>main</title>
-<polygon fill="none" stroke="black" points="160,-36 95,-36 95,-0 160,-0 160,-36"/>
+<polygon fill="none" stroke="red" points="160,-36 95,-36 95,-0 160,-0 160,-36"/>
 <text text-anchor="middle" x="127.5" y="-14.3" font-family="Times,serif" font-size="14.00">main.tex</text>
 </g>
 <!-- temp&#45;&gt;main -->
