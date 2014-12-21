@@ -15,7 +15,7 @@ info [label = "info.tex"]
 main [label = "main.tex"]
 bib [label = "cite.bib"]
 bst [label = "template.bst"]
-
+ref [label = ]
 //2. set path 
 temp -> {info,main,bst} [label = input]
 
