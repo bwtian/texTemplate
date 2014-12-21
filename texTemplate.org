@@ -17,7 +17,7 @@ bib [label = "cite.bib", color = red]
 bst [label = "template.bst"]
 //2. set path 
 temp -> {info,main, bib, bst} [label = input]
-info ->
+info -> 
 //3. set rank 
 
 }
