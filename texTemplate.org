@@ -10,6 +10,7 @@ ranksep = 0.2;
 nodesep = 0.5; 
 node [shape = box] 
 //1. set node 
+j[label = "Template.tex"]
 
 //2. set path 
 
