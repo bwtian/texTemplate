@@ -10,7 +10,7 @@ ranksep = 0.2;
 nodesep = 0.5; 
 node [shape = box] 
 //1. set node 
-temp [label = "template.tex"]
+temp [label = "template.tex", color = green]
 info [label = "info.tex", color = gold]
 main [label = "main.tex", color = red]
 bib [label = "cite.bib", color = red]
