@@ -17,7 +17,7 @@ bib [label = "cite.bib"]
 bst [label = "template.bst"]
 
 //2. set path 
-temp -> {info,main,}
+temp -> {info,main,bst}
 
 //3. set rank 
 {rank = same; A, B} 
@@ -25,6 +25,6 @@ temp -> {info,main,}
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate 
-#+RESULTS[5a4c12f075eb30c232dd7e1005b454b2b6016f7a]: dot:texTemplate
+#+RESULTS[ec7b47d9e15e3227095f66a7d74cf757e878cbf4]: dot:texTemplate
 [[file:./texTemplate.svg]]
 
