@@ -71,7 +71,7 @@
 </g>
 <!-- fig -->
 <g id="node7" class="node"><title>fig</title>
-<polygon fill="none" stroke="black" points="356.5,-103 302.5,-103 302.5,-67 356.5,-67 356.5,-103"/>
+<polygon fill="none" stroke="red" points="356.5,-103 302.5,-103 302.5,-67 356.5,-67 356.5,-103"/>
 <text text-anchor="middle" x="329.5" y="-81.3" font-family="Times,serif" font-size="14.00">Figs</text>
 </g>
 </g>
