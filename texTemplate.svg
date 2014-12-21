@@ -49,7 +49,7 @@
 </g>
 <!-- bib -->
 <g id="node4" class="node"><title>bib</title>
-<polygon fill="none" stroke="black" points="263,-103 206,-103 206,-67 263,-67 263,-103"/>
+<polygon fill="none" stroke="red" points="263,-103 206,-103 206,-67 263,-67 263,-103"/>
 <text text-anchor="middle" x="234.5" y="-81.3" font-family="Times,serif" font-size="14.00">cite.bib</text>
 </g>
 </g>
