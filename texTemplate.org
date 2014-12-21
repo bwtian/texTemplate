@@ -16,7 +16,7 @@
   main [label = "main.tex", color = red]
   bib [label = "cite.bib", color = red]
   bst [label = "template.bst", color = green]
-  sty [label = "template.sty"]
+  sty [label = "template.sty", color = green]
   fig [label = "Figs", color=red]
   build [label  = "build", color = red]
   gen [label = "compile.sh", color = blue]
@@ -28,6 +28,6 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate 
-#+RESULTS[9cf52dc1a1332e000849341e667f7665b28bc0a1]: dot:texTemplate
+#+RESULTS[419621377bc4b26a2bffa515622ff4b7ad314369]: dot:texTemplate
 [[file:./texTemplate.svg]]
 
