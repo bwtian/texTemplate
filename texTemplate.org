@@ -16,7 +16,7 @@ main [label = "main.tex", color = red]
 bib [label = "cite.bib", color = red]
 bst [label = "template.bst"]
 //2. set path 
-temp -> {info,main,bst} [label = input]
+temp -> {info,main, bst} [label = input]
 
 //3. set rank 
 
