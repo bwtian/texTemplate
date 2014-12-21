@@ -11,7 +11,7 @@ nodesep = 0.5;
 node [shape = box] 
 //1. set node 
 temp [label = "template.tex"]
-info [label = "info.tex", col = red]
+info [label = "info.tex", color = red]
 main [label = "main.tex"]
 bib [label = "cite.bib"]
 bst [label = "template.bst"]
@@ -24,6 +24,6 @@ temp -> {info,main,bst} [label = input]
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate 
-#+RESULTS[d513732e6cdc7754c7ff0fbe6ddced9ca8a4edd6]: dot:texTemplate
+#+RESULTS[e6d8ca4c5650f6d7e45ac2b624b19c2b74878729]: dot:texTemplate
 [[file:./texTemplate.svg]]
 
