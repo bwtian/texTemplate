@@ -11,7 +11,7 @@ nodesep = 0.5;
 node [shape = box] 
 //1. set node 
 j[label = "Template.tex"]
-
+info [label = "info.tex"]
 //2. set path 
 
 A -> B 
