@@ -60,7 +60,7 @@
 </g>
 <!-- sty -->
 <g id="node6" class="node"><title>sty</title>
-<polygon fill="none" stroke="black" points="231,-36 148,-36 148,-0 231,-0 231,-36"/>
+<polygon fill="none" stroke="green" points="231,-36 148,-36 148,-0 231,-0 231,-36"/>
 <text text-anchor="middle" x="189.5" y="-14.3" font-family="Times,serif" font-size="14.00">template.sty</text>
 </g>
 <!-- temp&#45;&gt;sty -->
