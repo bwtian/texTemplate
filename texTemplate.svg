@@ -23,7 +23,7 @@
 <g id="edge1" class="edge"><title>temp&#45;&gt;info</title>
 <path fill="none" stroke="black" d="M137.14,-66.922C116.04,-57.5279 89.9123,-45.8959 68.6831,-36.4445"/>
 <polygon fill="black" stroke="black" points="69.8685,-33.1411 59.3094,-32.2713 67.0214,-39.536 69.8685,-33.1411"/>
-<text text-anchor="middle" x="119.5" y="-47.8" font-family="Times,serif" font-size="14.00">input</text>
+<text text-anchor="middle" x="120.5" y="-47.8" font-family="Times,serif" font-size="14.00">input</text>
 </g>
 <!-- main -->
 <g id="node3" class="node"><title>main</title>
@@ -45,7 +45,7 @@
 <g id="edge3" class="edge"><title>temp&#45;&gt;bib</title>
 <path fill="none" stroke="black" d="M188.374,-66.922C193.51,-60.1092 199.533,-52.1193 205.173,-44.6378"/>
 <polygon fill="black" stroke="black" points="208.317,-46.2817 211.542,-36.1896 202.727,-42.068 208.317,-46.2817"/>
-<text text-anchor="middle" x="217.5" y="-47.8" font-family="Times,serif" font-size="14.00">input</text>
+<text text-anchor="middle" x="218.5" y="-47.8" font-family="Times,serif" font-size="14.00">input</text>
 </g>
 <!-- bst -->
 <g id="node5" class="node"><title>bst</title>
@@ -56,7 +56,12 @@
 <g id="edge4" class="edge"><title>temp&#45;&gt;bst</title>
 <path fill="none" stroke="black" d="M216.224,-66.922C235.903,-58.6696 259.701,-48.6901 280.473,-39.979"/>
 <polygon fill="black" stroke="black" points="281.91,-43.1717 289.779,-36.0767 279.203,-36.7163 281.91,-43.1717"/>
-<text text-anchor="middle" x="285.5" y="-47.8" font-family="Times,serif" font-size="14.00">input</text>
+<text text-anchor="middle" x="287.5" y="-47.8" font-family="Times,serif" font-size="14.00">input</text>
+</g>
+<!-- sty -->
+<g id="node6" class="node"><title>sty</title>
+<polygon fill="none" stroke="black" points="337,-103 254,-103 254,-67 337,-67 337,-103"/>
+<text text-anchor="middle" x="295.5" y="-81.3" font-family="Times,serif" font-size="14.00">template.sty</text>
 </g>
 </g>
 </svg>
