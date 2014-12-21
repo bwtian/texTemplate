@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-107 376,-107 376,4 -4,4"/>
 <!-- temp -->
 <g id="node1" class="node"><title>temp</title>
-<polygon fill="none" stroke="black" points="217.5,-103 133.5,-103 133.5,-67 217.5,-67 217.5,-103"/>
+<polygon fill="none" stroke="green" points="217.5,-103 133.5,-103 133.5,-67 217.5,-67 217.5,-103"/>
 <text text-anchor="middle" x="175.5" y="-81.3" font-family="Times,serif" font-size="14.00">template.tex</text>
 </g>
 <!-- info -->
@@ -49,7 +49,7 @@
 </g>
 <!-- bst -->
 <g id="node5" class="node"><title>bst</title>
-<polygon fill="none" stroke="black" points="372,-36 289,-36 289,-0 372,-0 372,-36"/>
+<polygon fill="none" stroke="green" points="372,-36 289,-36 289,-0 372,-0 372,-36"/>
 <text text-anchor="middle" x="330.5" y="-14.3" font-family="Times,serif" font-size="14.00">template.bst</text>
 </g>
 <!-- temp&#45;&gt;bst -->
