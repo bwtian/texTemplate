@@ -3,7 +3,7 @@
 #+HEADER: :results output graphics
 #+BEGIN_SRC dot :file ./texTemplate.svg 
   digraph { 
-  LR
+  R
   fontname="Times"; 
   fontsize = 12; 
   splines = false; 
