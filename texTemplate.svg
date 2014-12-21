@@ -74,5 +74,10 @@
 <polygon fill="none" stroke="red" points="356.5,-123 302.5,-123 302.5,-87 356.5,-87 356.5,-123"/>
 <text text-anchor="middle" x="329.5" y="-101.3" font-family="Times,serif" font-size="14.00">Figs</text>
 </g>
+<!-- build -->
+<g id="node8" class="node"><title>build</title>
+<polygon fill="none" stroke="red" points="446.5,-123 392.5,-123 392.5,-87 446.5,-87 446.5,-123"/>
+<text text-anchor="middle" x="419.5" y="-101.3" font-family="Times,serif" font-size="14.00">build</text>
+</g>
 </g>
 </svg>
