@@ -22,5 +22,6 @@ A -> B
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate 
-#+RESULTS: dot:texTemplate 
+#+RESULTS[b43b6a97bc92ce53efef43f49e0df3c0b85193a0]: dot:texTemplate
+[[file:./texTemplate.svg]]
 
