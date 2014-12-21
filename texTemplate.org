@@ -12,8 +12,8 @@ node [shape = box]
 //1. set node 
 temp [label = "template.tex"]
 info [label = "info.tex", color = red]
-main [label = "main.tex"]
-bib [label = "cite.bib"]
+main [label = "main.tex", color = red]
+bib [label = "cite.bib", color = red]
 bst [label = "template.bst"]
 //2. set path 
 temp -> {info,main,bst} [label = input]
@@ -24,6 +24,6 @@ temp -> {info,main,bst} [label = input]
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate 
-#+RESULTS[e6d8ca4c5650f6d7e45ac2b624b19c2b74878729]: dot:texTemplate
+#+RESULTS[51727c79e2163bf299eb780effa53ddb5baf94ea]: dot:texTemplate
 [[file:./texTemplate.svg]]
 
