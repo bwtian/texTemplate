@@ -13,7 +13,7 @@
   //1. set node
   proj [label = "project", color = green, shape="folder"]
   front [label = "xFront.tex", color = blue]
-  secs [label = "sections.tex", color = blue]
+  secs [label = "secX.tex", color = blue]
   main [label = "main.tex \n (Template)", color = red]
   bib [label = "cite.bib \n (Mendely)", color = red]
   bst [label = "template.bst", color = green]
@@ -35,5 +35,5 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[8e6246a069a2516ad21f4693b3086287f8a81048]: dot:texTemplate
+#+RESULTS[7477ccf33f2d9d1e5a3ca11a201c0be9c4c2d66f]: dot:texTemplate
 [[file:./texTemplate.svg]]
