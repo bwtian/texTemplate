@@ -3,7 +3,7 @@
 #+HEADER: :results output graphics
 #+BEGIN_SRC dot :file ./texTemplate.svg
   digraph {
-  //rankdir = LR
+  rankdir = LR
   fontname="Times";
   fontsize = 12;
   splines = false;
@@ -23,7 +23,7 @@
   sec [label = "secs", color=red, shape="folder"]
   build [label  = "build", color = blue, shape="folder"]
   gen [label = "compile.sh", color = blue]
-  temp [label = "template", style=dot]
+  temp [label = "template", style=dotted]
   //2. set path
 
   proj -> {fig sec main temp bib build gen}
@@ -35,5 +35,5 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[57005e1a01126da9e9725bebedcf771b3302ca29]: dot:texTemplate
+#+RESULTS[36332eb548e1ec678b10c4efc7e8164fdf08ed46]: dot:texTemplate
 [[file:./texTemplate.svg]]
