@@ -27,7 +27,7 @@
   //2. set path
 
   proj -> {fig sec main temp bib build gen}
-  temp -> {cls, bst, sty}
+  temp -> {cls, bst, sty, gen}
   sec -> {info, secs}
   //3. set rank
 
@@ -35,5 +35,5 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[36332eb548e1ec678b10c4efc7e8164fdf08ed46]: dot:texTemplate
+#+RESULTS[3d281b98a18e7ee12d0be6b2aefd459e672cbc04]: dot:texTemplate
 [[file:./texTemplate.svg]]
