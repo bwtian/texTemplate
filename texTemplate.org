@@ -11,7 +11,7 @@
   nodesep = 0.5;
   node [shape = box]
   //1. set node
-  proj [label = "project", color = green]
+  proj [label = "project", color = green, shape="folder"]
   info [label = "info.tex", color = gold]
   main [label = "main.tex", color = red]
   bib [label = "cite.bib", color = red]
@@ -29,5 +29,5 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[21a0c3c9cca754d72c3e10e7917ec01e2b0a4839]: dot:texTemplate
+#+RESULTS[e69fce0cc9720d5d02a2dd98efcdfb4da75e25d2]: dot:texTemplate
 [[file:./texTemplate.svg]]
