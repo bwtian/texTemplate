@@ -111,7 +111,7 @@
 </g>
 <!-- gen -->
 <g id="node12" class="node"><title>gen</title>
-<polygon fill="none" stroke="blue" points="271,-36 194,-36 194,-0 271,-0 271,-36"/>
+<polygon fill="none" stroke="green" points="271,-36 194,-36 194,-0 271,-0 271,-36"/>
 <text text-anchor="middle" x="232.5" y="-14.3" font-family="Times,serif" font-size="14.00">compile.sh</text>
 </g>
 <!-- temp&#45;&gt;bst -->
