@@ -22,7 +22,7 @@
   build [label  = "build", color = blue, shape="folder"]
   gen [label = "compile.sh", color = blue]
   //2. set path
-  proj -> {fig sec main bib sty bst}
+  proj -> {fig sec main bib sty bst }
   sec -> {info}
   //3. set rank
 
