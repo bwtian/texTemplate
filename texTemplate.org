@@ -22,7 +22,7 @@
   build [label  = "build", color = blue, shape="folder"]
   gen [label = "compile.sh", color = blue]
   //2. set path
-  proj -> {fig sec main bib}
+  proj -> {fig sec main bib sty bst}
   sec -> {info}
   //3. set rank
 
@@ -30,5 +30,5 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[7090e51731b5a2408d146cd7722d29f7978228b8]: dot:texTemplate
+#+RESULTS[4c06c7062910b5c5504bc52eb143996f0527f3ce]: dot:texTemplate
 [[file:./texTemplate.svg]]
