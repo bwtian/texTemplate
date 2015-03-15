@@ -39,3 +39,5 @@
 #+RESULTS[093771a75b0bdff590ddf847d483cc22aafc950e]: dot:texTemplate
 [[file:./texTemplate.svg]]
 * Links
+elsdoc.pdf
+http://cdn.elsevier.com/assets/pdf_file/0011/109388/elsdoc.pdf
