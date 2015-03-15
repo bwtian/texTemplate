@@ -22,7 +22,7 @@
   fig [label = "figs", color=red, shape="folder"]
   sec [label = "secs", color=red, shape="folder"]
   build [label  = "build", color = blue, shape="folder"]
-  gen [label = "compile.sh", color = blue]
+  gen [label = "compile.sh", color = green]
   temp [label = "template", style=dotted]
   //2. set path
 
@@ -35,5 +35,5 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[197923e3017996f17ca16fa2a3b2353a5c017e73]: dot:texTemplate
+#+RESULTS[6f53273efe0b9666415fc8aa485d43f0e207d4bc]: dot:texTemplate
 [[file:./texTemplate.svg]]
