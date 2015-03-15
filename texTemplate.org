@@ -35,5 +35,5 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[f749ea391205970faba6d99057e08279f1d2df14]: dot:texTemplate
+#+RESULTS[b3f366f97bd47c4bc873a1720396dd955a45ad7a]: dot:texTemplate
 [[file:./texTemplate.svg]]
