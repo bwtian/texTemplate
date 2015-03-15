@@ -12,7 +12,7 @@
   node [shape = box]
   //1. set node
   proj [label = "project", color = green, shape="folder"]
-  front [label = "xFront.tex", color = blue]
+  head [label = "xHead.tex", color = blue]
   secs [label = "secX.tex", color = blue]
   main [label = "main.tex \n (Template)", color = red]
   bib [label = "cite.bib \n (Mendely)", color = red]
@@ -28,12 +28,12 @@
 
   proj -> {fig sec main temp bib build}
   temp -> {cls, bst, sty, gen}
-  sec -> {front, secs}
+  sec -> {head, secs}
   //3. set rank
 
   }
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[7477ccf33f2d9d1e5a3ca11a201c0be9c4c2d66f]: dot:texTemplate
+#+RESULTS[093771a75b0bdff590ddf847d483cc22aafc950e]: dot:texTemplate
 [[file:./texTemplate.svg]]
