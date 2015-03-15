@@ -41,3 +41,5 @@
 * Links
 elsdoc.pdf
 http://cdn.elsevier.com/assets/pdf_file/0011/109388/elsdoc.pdf
+elsarticle.zip
+http://cdn.elsevier.com/assets/file/0008/109358/elsarticle.zip
