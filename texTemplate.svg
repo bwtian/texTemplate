@@ -76,10 +76,10 @@
 <path fill="none" stroke="black" d="M38.2909,-323.75C56.2715,-291.863 93.4798,-225.878 114.39,-188.797"/>
 <polygon fill="black" stroke="black" points="117.47,-190.46 119.333,-180.031 111.372,-187.022 117.47,-190.46"/>
 </g>
-<!-- info -->
-<g id="node2" class="node"><title>info</title>
-<polygon fill="none" stroke="blue" points="278,-396 219,-396 219,-360 278,-360 278,-396"/>
-<text text-anchor="middle" x="248.5" y="-374.3" font-family="Times,serif" font-size="14.00">info.tex</text>
+<!-- front -->
+<g id="node2" class="node"><title>front</title>
+<polygon fill="none" stroke="blue" points="285,-396 212,-396 212,-360 285,-360 285,-396"/>
+<text text-anchor="middle" x="248.5" y="-374.3" font-family="Times,serif" font-size="14.00">xFront.tex</text>
 </g>
 <!-- secs -->
 <g id="node3" class="node"><title>secs</title>
@@ -101,10 +101,10 @@
 <polygon fill="none" stroke="green" points="290,-108 207,-108 207,-72 290,-72 290,-108"/>
 <text text-anchor="middle" x="248.5" y="-86.3" font-family="Times,serif" font-size="14.00">template.sty</text>
 </g>
-<!-- sec&#45;&gt;info -->
-<g id="edge11" class="edge"><title>sec&#45;&gt;info</title>
-<path fill="none" stroke="black" d="M157.533,-322.158C173.005,-331.762 192.891,-344.105 210.03,-354.743"/>
-<polygon fill="black" stroke="black" points="208.363,-357.827 218.705,-360.127 212.054,-351.88 208.363,-357.827"/>
+<!-- sec&#45;&gt;front -->
+<g id="edge11" class="edge"><title>sec&#45;&gt;front</title>
+<path fill="none" stroke="black" d="M157.533,-322.158C172.891,-331.691 192.598,-343.923 209.652,-354.508"/>
+<polygon fill="black" stroke="black" points="207.948,-357.57 218.29,-359.87 211.64,-351.622 207.948,-357.57"/>
 </g>
 <!-- sec&#45;&gt;secs -->
 <g id="edge12" class="edge"><title>sec&#45;&gt;secs</title>
