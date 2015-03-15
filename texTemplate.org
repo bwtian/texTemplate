@@ -23,7 +23,7 @@
   sec [label = "secs", color=red, shape="folder"]
   build [label  = "build", color = blue, shape="folder"]
   gen [label = "compile.sh", color = blue]
-  temp [label = "template"]
+  temp [label = "template", style=dot]
   //2. set path
 
   proj -> {fig sec main temp bib build gen}
@@ -35,5 +35,5 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[b26f815a588b1e4884b17a8e1b2038722c9549bc]: dot:texTemplate
+#+RESULTS[57005e1a01126da9e9725bebedcf771b3302ca29]: dot:texTemplate
 [[file:./texTemplate.svg]]
