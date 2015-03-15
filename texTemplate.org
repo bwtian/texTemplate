@@ -1,16 +1,16 @@
 #+NAME: dot:texTemplate
 #+HEADER: :cache yes :tangle yes :exports none
 #+HEADER: :results output graphics
-#+BEGIN_SRC dot :file ./texTemplate.svg 
-  digraph { 
+#+BEGIN_SRC dot :file ./texTemplate.svg
+  digraph {
   rankdir = LR
-  fontname="Times"; 
-  fontsize = 12; 
-  splines = false; 
-  ranksep = 0.5; 
-  nodesep = 0.5; 
-  node [shape = box] 
-  //1. set node 
+  fontname="Times";
+  fontsize = 12;
+  splines = false;
+  ranksep = 0.5;
+  nodesep = 0.5;
+  node [shape = box]
+  //1. set node
   temp [label = "template.tex", color = green]
   info [label = "info.tex", color = gold]
   main [label = "main.tex", color = red]
@@ -18,16 +18,15 @@
   bst [label = "template.bst", color = green]
   sty [label = "template.sty", color = green]
   fig [label = "Figs", color=red]
-  build [label  = "build", color = blue]
+  build [label  = "build", color = blue, shape="diamond"]
   gen [label = "compile.sh", color = blue]
-  //2. set path 
+  //2. set path
   temp -> {info,main, bib, bst, sty} [label = input]
-  //3. set rank 
+  //3. set rank
 
   }
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
-#+NAME: fig:texTemplate 
-#+RESULTS[be7a0798413d7327543c39730481a75e2b69ea65]: dot:texTemplate
+#+NAME: fig:texTemplate
+#+RESULTS[625174c1f74a81c661838cf9549806c5d8ca5918]: dot:texTemplate
 [[file:./texTemplate.svg]]
-
