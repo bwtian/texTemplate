@@ -83,8 +83,8 @@
 </g>
 <!-- secs -->
 <g id="node3" class="node"><title>secs</title>
-<polygon fill="none" stroke="blue" points="288.5,-324 208.5,-324 208.5,-288 288.5,-288 288.5,-324"/>
-<text text-anchor="middle" x="248.5" y="-302.3" font-family="Times,serif" font-size="14.00">sections.tex</text>
+<polygon fill="none" stroke="blue" points="280.5,-324 216.5,-324 216.5,-288 280.5,-288 280.5,-324"/>
+<text text-anchor="middle" x="248.5" y="-302.3" font-family="Times,serif" font-size="14.00">secX.tex</text>
 </g>
 <!-- bst -->
 <g id="node6" class="node"><title>bst</title>
@@ -108,8 +108,8 @@
 </g>
 <!-- sec&#45;&gt;secs -->
 <g id="edge12" class="edge"><title>sec&#45;&gt;secs</title>
-<path fill="none" stroke="black" d="M157.533,-306C169.573,-306 184.286,-306 198.298,-306"/>
-<polygon fill="black" stroke="black" points="198.329,-309.5 208.329,-306 198.329,-302.5 198.329,-309.5"/>
+<path fill="none" stroke="black" d="M157.533,-306C171.779,-306 189.769,-306 205.91,-306"/>
+<polygon fill="black" stroke="black" points="206.192,-309.5 216.192,-306 206.192,-302.5 206.192,-309.5"/>
 </g>
 <!-- gen -->
 <g id="node12" class="node"><title>gen</title>
