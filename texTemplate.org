@@ -26,7 +26,7 @@
   temp [label = "template"]
   //2. set path
 
-  proj -> {fig sec main temp cls build gen}
+  proj -> {fig sec main temp bib build gen}
   sec -> {info, secs}
   //3. set rank
 
@@ -34,5 +34,5 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[19499ea94c719eb1e68f39c98ba2e2c285f24a11]: dot:texTemplate
+#+RESULTS[f78b4ae851d0ca2cbdeba2edcb4de1afdf5a8d4b]: dot:texTemplate
 [[file:./texTemplate.svg]]
