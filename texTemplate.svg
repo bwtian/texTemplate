@@ -11,7 +11,7 @@
 <polygon fill="white" stroke="none" points="-4,4 -4,-472 228,-472 228,4 -4,4"/>
 <!-- proj -->
 <g id="node1" class="node"><title>proj</title>
-<polygon fill="none" stroke="green" points="65.5,-180 11.5,-180 11.5,-144 65.5,-144 65.5,-180"/>
+<polygon fill="none" stroke="green" points="65.5,-180 62.5,-184 41.5,-184 38.5,-180 11.5,-180 11.5,-144 65.5,-144 65.5,-180"/>
 <text text-anchor="middle" x="38.5" y="-158.3" font-family="Times,serif" font-size="14.00">project</text>
 </g>
 <!-- info -->
