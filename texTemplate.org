@@ -23,7 +23,9 @@
   sec [label = "secs", color=red, shape="folder"]
   build [label  = "build", color = blue, shape="folder"]
   gen [label = "compile.sh", color = blue]
+  template [label = "template"]
   //2. set path
+
   proj -> {fig sec main bib sty bst cls build gen}
   sec -> {info, secs}
   //3. set rank
@@ -32,5 +34,5 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[b555bffca5ba8ce9374f3aa9655859f72bf45c71]: dot:texTemplate
+#+RESULTS[6a221a86fe237a503cef113138cb24f69d12a628]: dot:texTemplate
 [[file:./texTemplate.svg]]
