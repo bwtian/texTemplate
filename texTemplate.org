@@ -12,7 +12,7 @@
   node [shape = box]
   //1. set node
   proj [label = "project", color = green, shape="folder"]
-  info [label = "info.tex", color = blue]
+  front [label = "info.tex", color = blue]
   secs [label = "sections.tex", color = blue]
   main [label = "main.tex \n (Template)", color = red]
   bib [label = "cite.bib \n (Mendely)", color = red]
