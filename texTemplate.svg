@@ -71,8 +71,8 @@
 </g>
 <!-- fig -->
 <g id="node7" class="node"><title>fig</title>
-<polygon fill="none" stroke="red" points="69,-252 15,-252 15,-216 69,-216 69,-252"/>
-<text text-anchor="middle" x="42" y="-230.3" font-family="Times,serif" font-size="14.00">Figs</text>
+<polygon fill="none" stroke="red" points="69,-252 66,-256 45,-256 42,-252 15,-252 15,-216 69,-216 69,-252"/>
+<text text-anchor="middle" x="42" y="-230.3" font-family="Times,serif" font-size="14.00">figs</text>
 </g>
 <!-- build -->
 <g id="node8" class="node"><title>build</title>
