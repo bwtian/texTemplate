@@ -14,8 +14,8 @@
   proj [label = "project", color = green, shape="folder"]
   info [label = "info.tex", color = blue]
   secs [label = "sections.tex", color = blue]
-  main [label = "main.tex", color = red]
-  bib [label = "cite.bib", color = red]
+  main [label = "main.tex \n Template", color = red]
+  bib [label = "cite.bib \n Mendely", color = red]
   bst [label = "template.bst", color = green]
   cls [label = "template.cls", color = green]
   sty [label = "template.sty", color = green]
@@ -35,5 +35,5 @@
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[6f53273efe0b9666415fc8aa485d43f0e207d4bc]: dot:texTemplate
+#+RESULTS[f749ea391205970faba6d99057e08279f1d2df14]: dot:texTemplate
 [[file:./texTemplate.svg]]
