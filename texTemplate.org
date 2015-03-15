@@ -16,6 +16,7 @@
   main [label = "main.tex", color = red]
   bib [label = "cite.bib", color = red]
   bst [label = "template.bst", color = green]
+  cls [label = "template.cls", color = green]
   sty [label = "template.sty", color = green]
   fig [label = "figs", color=red, shape="folder"]
   sec [label = "secs", color=red, shape="folder"]
