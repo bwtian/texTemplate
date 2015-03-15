@@ -11,7 +11,7 @@
   nodesep = 0.5;
   node [shape = box]
   //1. set node
-  temp [label = "project", color = green]
+  proj [label = "project", color = green]
   info [label = "info.tex", color = gold]
   main [label = "main.tex", color = red]
   bib [label = "cite.bib", color = red]
@@ -22,12 +22,12 @@
   build [label  = "build", color = blue, shape="folder"]
   gen [label = "compile.sh", color = blue]
   //2. set path
-  temp -> {info,main, bib, bst, sty} [label = input]
+  proj -> {info,main, bib, bst, sty} [label = input]
   //3. set rank
 
   }
 #+END_SRC
 #+CAPTION: Table/figure name Out put of above code
 #+NAME: fig:texTemplate
-#+RESULTS[03bfbd9ac3791604b46b128af619703f094ff078]: dot:texTemplate
+#+RESULTS[21a0c3c9cca754d72c3e10e7917ec01e2b0a4839]: dot:texTemplate
 [[file:./texTemplate.svg]]
