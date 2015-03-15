@@ -27,6 +27,7 @@
   //2. set path
 
   proj -> {fig sec main temp bib build gen}
+  temp -> {}
   sec -> {info, secs}
   //3. set rank
 
