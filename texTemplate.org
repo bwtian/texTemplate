@@ -28,7 +28,7 @@
 
   proj -> {fig sec main temp bib build}
   temp -> {cls, bst, sty, gen}
-  sec -> {info, secs}
+  sec -> {front, secs}
   //3. set rank
 
   }
